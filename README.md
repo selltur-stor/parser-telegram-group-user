@@ -6,3 +6,5 @@ The program collects user names, their id and tag (if any), and also checks if t
 you will need to create an application in telegram using this link https://my.telegram.org/auth
 
 The program does not collect users if their list is closed by the groups privacy settings
+
+Telegram channel - https://t.me/+vx-VVXj37aViOGEy
